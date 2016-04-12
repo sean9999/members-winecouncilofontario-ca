@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#mainContent #rightNav .extrander {
+}
+
+#mainContent #rightNav .extrander h2 {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+
+}
+
+#mainContent #rightNav .extrander h2 a {
+	padding-top: 0px;
+	padding-right: 6px;
+	padding-bottom: 0px;
+	padding-left: 6px;
+	font-size: 12px;
+	line-height: 32px;
+	text-decoration: none;
+	display: block;
+}
+
+#mainContent #rightNav .extrander h2 a:hover {
+	background-color: #eae6d6;
+}
+
+
+#mainContent #rightNav .extrander ul{
+	padding-right: 18px;
+	padding-bottom: 12px;
+	padding-left: 18px;
+}
+
+#mainContent #rightNav .extrander ul li {
+	line-height: 15px;	
+	font-size: 11px;
+	line-height: 15px;
+	padding-bottom: 5px;
+
+}
+
+#mainContent #rightNav .extrander ul li a {
+	text-decoration: none;
+	display: block;
+}
+
+#mainContent #rightNav .extrander ul li a strong {
+	color: #7A0046;
+}
+
+
+#mainContent #rightNav .extrander ul li.finalLink a {
+	padding-top: 10px;
+	text-align: right;
+}
+
+
+#mainContent #rightNav .extrander ul li a:hover {
+	text-decoration: underline;
+}
+
+.extrand {
+	border-bottom-color: #eae6d6;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+#mainContent #rightNav .extrander ul li .remove {
+	float: right;
+}
+
+#mainContent #rightNav .extrander ul li .remove a {
+}
+
+#mainContent #rightNav .extrander ul li .remove a:hover {
+	background-color: red;
+	text-decoration: none;
+}
+
+#mainContent #rightNav .extrander ul li.extrandRight {
+	text-align: right;	
+}	
+
+#mainContent #rightNav .extrander .extrand ul {
+	list-style: none;
+	padding-left: 0px;
+	margin-left: 10px;
+}
+
+#mainContent #rightNav .extrander .extrand ul li {
+	list-style: none;
+	padding-left: 0px;
+	margin-left: 0px;
+}

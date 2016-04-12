@@ -1,0 +1,243 @@
+Language: Deutsch
+Language-Code: de_DE
+Build-Date: Mon, 15 Jun 2009 12:08:22 -0600
+
+msgid: "Either the file could not be read or it was empty"
+msgstr: "Die Datei konnte entweder nicht gefunden werden oder die Datei war leer"
+
+msgid: "Error performing operation"
+msgstr: "Fehler beim Ausführen der Operation"
+
+msgid: "All"
+msgstr: "Alle"
+
+msgid: "None"
+msgstr: "Keine"
+
+msgid: "With selected"
+msgstr: "Markierte"
+
+msgid: "Empty"
+msgstr: "Leeren"
+
+msgid: "Drop"
+msgstr: "Löschen"
+
+msgid: "Optimize"
+msgstr: "Optimieren"
+
+msgid: "Table"
+msgstr: "Tabelle"
+
+msgid: "Rows"
+msgstr: "Zeile"
+
+msgid: "Size"
+msgstr: "Größe"
+
+msgid: "Overhead"
+msgstr: "Überhang"
+
+msgid: "Options"
+msgstr: "Optionen"
+
+msgid: "Edit database"
+msgstr: "Datenbank bearbeiten"
+
+msgid: "Charset"
+msgstr: "Zeichensatz"
+
+msgid: "Submit"
+msgstr: "Speichern"
+
+msgid: "Create a new table"
+msgstr: "Neue Tabelle erstellen"
+
+msgid: "Name"
+msgstr: "Name"
+
+msgid: "Setup the fields for the table below"
+msgstr: "Zellen für Tabelle erstellen"
+
+msgid: "New field"
+msgstr: "Neues Feld"
+
+msgid: "Type"
+msgstr: "Typ"
+
+msgid: "Values"
+msgstr: "Werte"
+
+msgid: "Key"
+msgstr: "Schlüssel"
+
+msgid: "primary"
+msgstr: "primär"
+
+msgid: "unique"
+msgstr: "eindeutig"
+
+msgid: "index"
+msgstr: "index"
+
+msgid: "Default"
+msgstr: "Standard"
+
+msgid: "Other"
+msgstr: "Andere"
+
+msgid: "Unsigned"
+msgstr: "vorzeichenlos"
+
+msgid: "Binary"
+msgstr: "Binär"
+
+msgid: "Not Null"
+msgstr: "Nicht Null"
+
+msgid: "Auto Increment"
+msgstr: "Automatische Erhöhung"
+
+msgid: "Add field"
+msgstr: "Feld hinzufügen"
+
+msgid: "Oops"
+msgstr: "Hoppla"
+
+msgid: "For some reason, the database parameter was not included with your request"
+msgstr: "Der Datenbankparameter war nicht in Ihrer Anfrage enthalten"
+
+msgid: "Save changes to original"
+msgstr: "Änderungen auf das Original anwenden"
+
+msgid: "Insert as new row"
+msgstr: "Neuen Datensatz hinzufügen"
+
+msgid: "Save"
+msgstr: "Speichern"
+
+msgid: "User"
+msgstr: "Benutzer"
+
+msgid: "All privileges"
+msgstr: "Alle Rechte"
+
+msgid: "Selected privileges"
+msgstr: "Ausgewählte Rechte"
+
+msgid: "User privileges"
+msgstr: "Benutzerrechte"
+
+msgid: "Select"
+msgstr: "SELECT"
+
+msgid: "Insert"
+msgstr: "INSERT"
+
+msgid: "Update"
+msgstr: "UPDATE"
+
+msgid: "Delete"
+msgstr: "DELETE"
+
+msgid: "Alter"
+msgstr: "ALTER"
+
+msgid: "Create"
+msgstr: "CREATE"
+
+msgid: "Temp tables"
+msgstr: "Temporäre Tabellen"
+
+msgid: "Administrator privileges"
+msgstr: "Administratorenrechte"
+
+msgid: "File"
+msgstr: "Datei"
+
+msgid: "Process"
+msgstr: "Prozess"
+
+msgid: "Reload"
+msgstr: "Neu laden"
+
+msgid: "Shutdown"
+msgstr: "Herunterfahren"
+
+msgid: "Super"
+msgstr: "Super"
+
+msgid: "Grant option"
+msgstr: "Option bewilligen"
+
+msgid: "User not found!"
+msgstr: "Benutzer nicht gefunden!"
+
+msgid: "You must export either structure, data, or both"
+msgstr: "Sie müssen entweder Struktur, Daten oder beides exportieren"
+
+msgid: "Please select the databases that you would like to export"
+msgstr: "Bitte wählen Sie die zu exportierenden Datenbanken aus"
+
+msgid: "Please select the tables that you would like to export"
+msgstr: "Bitte wählen Sie die zu exportierenden Tabellen aus"
+
+msgid: "Table `%s` is empty"
+msgstr: "Tabelle \"%s\" ist leer"
+
+msgid: "Results"
+msgstr: "Ergebnisse"
+
+msgid: "Select all"
+msgstr: "Alle auswählen"
+
+msgid: "The file could not be opened"
+msgstr: "Datei konnte nicht geöffnet werden"
+
+msgid: "Could not write to file"
+msgstr: "Konnte Datei nicht schreiben"
+
+msgid: "Successfully wrote content to file"
+msgstr: "Inhalt erfolgreich in Datei geschrieben"
+
+msgid: "Download"
+msgstr: "Herunterladen"
+
+msgid: "Note
+"
+msgstr: "Hinweis"
+
+msgid: "If this is a public server, you should delete this file from the server after you download it"
+msgstr: "Sollte dies ein öffentlich zugänglicher Server sein, sollten Sie diese Datei nach dem Herunterladen löschen"
+
+msgid: "Export"
+msgstr: "Exportieren"
+
+msgid: "Tables"
+msgstr: "Tabellen"
+
+msgid: "Databases"
+msgstr: "Datenbanken"
+
+msgid: "Format"
+msgstr: "Format"
+
+msgid: "SQL"
+msgstr: "SQL"
+
+msgid: "CSV"
+msgstr: "CSV"
+
+msgid: "Structure"
+msgstr: "Struktur"
+
+msgid: "Data"
+msgstr: "Daten"
+
+msgid: "Compact inserts"
+msgstr: "Kompakte INSERTS"
+
+msgid: "Complete inserts"
+msgstr: "Komplette INSERTS"
+
+ms

@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html,  body {
+	height:100%;
+	background-color: #FCFCFC;
+}
+#container {
+	min-height:100%;
+	position:relative;
+}
+#topbar {
+	padding:0px;
+	background-color: #424716;
+}
+#body {
+	padding-bottom:47px;	/* Height of the footer */
+	width: 950px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+#botbar {
+	margin-top: 10px;
+	position:absolute;
+	bottom:0;
+	width:100%;
+	height:47px;			/* Height of the footer */
+	background-color: #424716;
+}
+
+/* HEADER AND FOOTER */
+
+
+#header {
+	padding-top: 9px;
+	padding-bottom: 9px;
+	width: 950px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	text-align: left;
+	/*
+	background-image: url(/assets/membersite.png);
+	background-position: center right;
+	background-repeat: no-repeat;
+	*/
+}
+
+#footer {
+	width: 950px;
+	text-align: left;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+	
+/* CONTENT BLOCKS */
+
+
+
+#mainNav {
+	padding-top: 27px;
+	float: left;
+	width: 172px;
+	}
+
+#mainContent {
+	float: left;
+	width: 754px;
+	margin-left: 24px;
+	padding-bottom: 33px;
+}
+
+#Content {
+	margin-top: 30px;
+	float: left;
+	width: 516px;
+	min-height: 300px;
+}
+
+#sideLinks {
+	padding-top: 64px;
+	float: left;
+	width: 210px;
+	padding-bottom: 33px;
+}
+
+#rightNav {
+	float: right;
+	padding-top: 27px;
+	width: 220px;
+}
+
+div.right_nav {
+	background-color: white;
+	border: 1px solid gray;
+	width: 220px;
+	float: right;
+}
+
+#debugWindow {	/* added by sean	*/
+	background-color:	#EEEEEE;
+	color:				#003333;
+	font-weight:		bold;
+	display:			inline;
+	border:				1px double red;
+}

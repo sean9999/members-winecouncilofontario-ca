@@ -1,0 +1,24 @@
+table.pretty.survey td.sectionTitle {
+	text-align:left;
+	font-weight: bold;
+}
+
+.pretty.survey {
+	zoom: 1;
+}
+
+.pretty.survey tr:first-child {
+	height: 14em;
+}
+
+.pretty.survey tr:nth-child(-2) {
+	height: 14em;
+}
+
+.negative {
+	color: red;
+}
+
+.positive {
+	color: green;
+}

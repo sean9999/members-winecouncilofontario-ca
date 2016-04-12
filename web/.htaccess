@@ -1,0 +1,24 @@
+AddHandler php5-script .php
+
+
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+RewriteRule ^(.*)$ $1.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /parseURL.php [L]
+
+RewriteCond %{http_user_agent} !(googlebot|Msnbot|Slurp) [NC]
+RewriteRule ^robots\.txt$ http://lmgtfy.com/?q=go+away  [R,NE,L]
+AddHandler application/x-httpd-php .txt
+
+#AuthName "Restricted Area" 
+#AuthType Basic 
+#AuthUserFile /var/www/members.winesofontario.org/.htpasswd 
+#AuthGroupFile /dev/null 
+#require valid-user

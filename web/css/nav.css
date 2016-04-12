@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*  COLOURS:
+	WCO: #424716
+	PEC: #FCB31C
+	NIAGESC: #5C1768
+	NIAG: #E5173F
+	TORY: #F47321
+	ERIE: #00ABBF
+	
+	BORDER: #eae6d6	
+	FOOTER: #767B1B
+*/
+
+/* MAIN NAVIGATION FOR SITE */
+
+#mainNav ul {
+}
+
+#mainNav ul li {
+	display: block;
+	font-size: 12px;
+	line-height: 15px;
+	text-transform: uppercase;
+}
+
+#mainNav a {
+	color: #4C4C4C;
+	text-decoration: none;
+	padding-top: 9px;
+	padding-left: 9px;
+	padding-bottom: 8px;
+	display: block;
+	margin-bottom: 1px;
+}
+
+#mainNav ul.tier1 {
+	margin-bottom: 25px;
+}
+
+
+#mainNav ul.tier1 li a {
+	font-weight: bold;
+}
+
+#mainNav ul.tier1 li ul.tier2 li a {
+	font-weight: normal;
+}
+
+#mainNav ul.tier2 a {
+	padding-top: 3px;
+	padding-left: 27px;
+	padding-bottom: 3px;
+
+}
+
+#mainNav a:hover {
+	background-color: #F3F3F3;
+}
+
+
+#mainNav ul.tier1 li.active a.tier1,
+#Welcome #mainNav ul.tier1 li#Welcome a,
+#winery #mainNav ul.tier1 li#winery a,
+#wines #mainNav ul.tier1 li#wines a.tier1,
+#wine li#wine a,
+#survey #mainNav ul.tier1 li#survey a,
+#mainNav ul.tier1 li ul.tier2 li.subActive a,
+#welcome li#welcome a,
+#wineries ul li a:hover {
+	background-color: #424716;
+	color: #FFF;
+}

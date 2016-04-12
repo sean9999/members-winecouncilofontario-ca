@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* CSS Document */
+
+div.everything {
+	
+	width: 100%;
+	height: 100%;
+	display: table;
+
+}
+
+div#row1 {
+	
+	display: table-row;
+	
+}
+
+
+div#row2 {
+	
+	display: table-row;
+	
+}
+
+div.pairings {
+	
+	width: 100%;
+	display: table-cell;
+	
+	
+}
+
+div.foods {
+
+	width: 250px;
+	display: table-cell;
+	float: left;
+}
+
+div.wines {
+
+	width: 250px;
+	display: table-cell;
+	float: left;
+
+}
+
+div.goeswith {
+
+	width: 150px;
+	display: table-cell;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+
+}

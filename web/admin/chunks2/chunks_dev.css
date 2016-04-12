@@ -1,0 +1,29 @@
+table.chunktable .chunkrow {
+	display: none;
+
+}
+
+table.chunktable .childof_0 {
+	display: table-row;
+
+}
+
+.toggler {
+	border: 0;
+	padding: 0;
+	margin: 0;
+
+}
+
+.chunk_actions {
+	font-family: "Verdana";
+	font-size:	small;
+}
+
+.smalltext {
+
+	font-family: "Verdana";
+	font-size: 10px;
+
+}
+

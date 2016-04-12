@@ -1,0 +1,1012 @@
+# Webalizer V2.01-10 Incremental Data - 09/09/2013 23:38:09
+2013 9 9 23 38 9
+5006 2965 63 223 68 43 15148371 1016 116 1 2114 46347
+13 1 1017 1 9
+52 38 114974 6 14 8 0 0
+79 65 204647 8 26 10 0 0
+2533 1219 8779963 12 426 15 0 0
+1668 1110 4320764 17 332 22 0 0
+122 105 337418 6 47 9 0 0
+169 145 422035 9 44 15 0 0
+161 121 479620 7 69 13 2114 46347
+83 69 183753 6 18 8 0 0
+139 93 305197 13 40 16 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+47 39 91090 11 0 0
+57 49 109117 12 0 0
+12 1 73160 12 0 0
+0 0 0 0 0 0
+18 15 39639 5 0 0
+19 16 39361 3 0 0
+51 29 247140 43 2114 46347
+10 6 65577 9 0 0
+4 2 14303 3 0 0
+2 1 2615 1 0 0
+6 3 10485 4 0 0
+33 28 67403 8 0 0
+49 40 99804 13 0 0
+681 506 1327938 107 0 0
+1145 609 1358184 153 0 0
+1071 582 899670 173 0 0
+1090 460 5340907 232 0 0
+257 197 2376712 75 0 0
+105 91 932609 44 0 0
+140 117 354618 57 0 0
+18 13 884024 9 0 0
+68 57 561584 15 0 0
+49 41 105867 11 0 0
+74 63 146564 16 0 0
+11
+0
+0
+2965
+0
+0
+0
+0
+0
+2
+0
+19
+297
+0
+1648
+0
+0
+0
+0
+0
+0
+64
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/plugins/History/img/clock.png
+1 2 0 882 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/tiny_mce_popup.js
+0 26 0 5817 0 0 0 0
+/admin/chunks/chunks_init2.js
+0 30 0 1324 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/progress.gif
+1 2 0 714 0 0 0 0
+/
+0 35 0 250374 59 4 0 0
+/content/agm/WCO_Annual_Report_2012-2013.pdf
+0 2 0 3496074 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/plugins/History/img/clock.png
+1 6 0 882 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/plugins/Favorites/img/favorites.png
+1 2 0 575 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/middle_right.gif
+1 1 0 59 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_left.gif
+1 1 0 628 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/folder-top-bg.png
+1 2 0 675 0 0 0 0
+/admin/chunks/images/internet_explorer/borderTopLeft.png
+1 2 0 344 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/stream/
+0 4 0 628 0 0 0 0
+/content/mywineshop/Wine_Tourism_Award_Logo_for_email_signature_.png
+1 12 0 422832 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/reload.png
+1 2 0 878 0 0 0 0
+/lib/colorbox/example1/images/loading_background.png
+1 30 0 314 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im-botleft.gif
+1 6 0 831 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_chromeless_left.gif
+1 1 0 69 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/category-closed.png
+1 2 0 587 0 0 0 0
+/admin/chunks/images/internet_explorer/borderBottomLeft.png
+1 2 0 344 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/bottom_middle.gif
+1 1 0 249 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/bottom_middle.gif
+1 1 0 249 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/left.gif
+1 12 0 606 0 0 0 0
+/Export
+0 1 0 8085 0 1 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/reload.png
+1 6 0 878 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/left.png
+1 1 0 389 0 0 0 0
+/Marketing-Programs
+0 12 0 42567 0 0 0 0
+/Member-Information
+0 7 0 23394 0 0 0 0
+/lib/colorbox/example1/images/controls.png
+1 30 0 2498 0 0 0 0
+/admin/admin.js
+0 34 0 1548 0 0 0 0
+/Marketing-Programs/Social-Media-Tools-and-Reports
+0 1 0 3725 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/jquery.tinymce.js
+0 31 0 2884 0 0 0 0
+/admin/chunks2/
+0 119 0 462809 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/loading.gif
+1 2 0 2451 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/plugins/Favorites/img/favorites.png
+1 6 0 575 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/css/
+0 2 0 5753 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/submit-wide.png
+1 2 0 6184 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/add.png
+1 2 0 515 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/language/
+0 51 0 45507 0 0 0 0
+/assets/favicon.png
+1 19 0 14250 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/upload.html
+0 1 0 1472 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_right.gif
+1 1 0 625 0 0 0 0
+/account-password.js
+0 2 0 704 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/folder-top-bg.png
+1 6 0 675 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/css/
+0 2 0 10254 0 0 0 0
+/admin/chunks/js.js
+0 2 0 304 0 0 0 0
+/lib/colorbox/example1/colorbox.css
+0 30 0 2558 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/right.png
+1 1 0 395 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/tiny_mce.js
+0 16 0 111126 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/middle_right.gif
+1 1 0 59 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/folder-middle-bg.png
+1 2 0 240 0 0 0 0
+/lib/colorbox/example1/images/overlay.png
+1 30 0 364 0 0 0 0
+/admin/chunks/chunks.css
+0 30 0 40 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_chromeless_right.gif
+1 1 0 69 0 0 0 0
+/admin/assets/arrow_down.png
+1 9 0 1502 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/editor_plugin.js
+0 17 0 10032 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/submit-default.png
+1 1 0 2127 0 0 0 0
+/login.php
+0 254 0 579765 12 34 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_left.gif
+1 1 0 628 0 0 0 0
+/Marketing-Programs/Export-Statistics
+0 1 0 3490 0 0 0 0
+/lib/extrander/animatedcollapse.js
+0 86 0 197930 0 0 0 0
+/Industry-Matters/Wine-Pricing-Models
+0 1 0 3584 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_middle.gif
+1 1 0 3746 0 0 0 0
+/admin/chunks/chunks_dev.css
+0 30 0 346 0 0 0 0
+/admin/assets/arrow_right.png
+1 29 0 2184 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/loading.gif
+1 6 0 2451 0 0 0 0
+/content/trade-ads/sample_chaglass.jpg
+1 35 0 316210 0 0 0 0
+/Marketing-Programs/Winery-Opportunities
+0 1 0 3378 0 0 0 0
+/account.php
+0 5 0 15183 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/navdesc_bg.gif
+1 6 0 587 0 0 0 0
+/Trade-Suppliers
+0 15 0 66430 1 0 0 0
+/admin/chunks2/images/internet_explorer/borderMiddleLeft.png
+1 117 0 20124 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/
+0 2 0 1453 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/buttons.gif
+1 1 0 1195 0 0 0 0
+/admin/chunks/images/internet_explorer/borderMiddleRight.png
+1 2 0 344 0 0 0 0
+/Trade-Page
+0 7 0 26298 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/insertimage.gif
+1 16 0 854 0 0 0 0
+/css/nav.css
+0 132 0 30739 0 0 0 0
+/admin/chunks/images/internet_explorer/borderBottomRight.png
+1 2 0 344 0 0 0 0
+/lib/colorbox/example2/colorbox.css
+0 85 0 45320 0 0 0 0
+/content/Spotlight_on_Wine_Country_Ontario_August_29_2013.pdf
+0 10 0 3764511 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/buttons.gif
+1 1 0 1195 0 0 0 0
+/lib/extrander/extrander.css
+0 89 0 27434 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/js/
+0 12 0 44682 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/js/jquery/jquery.multiupload.flash.swf
+0 1 0 3724 0 0 0 0
+/admin/chunks2/images/internet_explorer/borderMiddleRight.png
+1 117 0 20124 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im-topleft.gif
+1 2 0 523 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/view.html
+0 1 0 1574 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/dialog-top.png
+1 1 0 10746 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im-delete.png
+1 1 0 694 0 0 0 0
+/admin/chunks2/images/internet_explorer/borderBottomRight.png
+1 117 0 20124 0 0 0 0
+/account-create.js
+0 1 0 1915 0 0 0 0
+/account-create.php
+0 7 0 41977 5 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/category-closed.png
+1 6 0 587 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/content.css
+0 16 0 1334 0 0 0 0
+/robots.txt
+0 7 0 441 0 0 0 0
+/members-listing.php
+0 3 0 22833 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/loading_bg.gif
+1 12 0 828 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/langs/en.js
+0 17 0 5823 0 0 0 0
+/admin/navi.php
+0 22 0 14366 1 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/js/utils/fixpng.js
+0 4 0 1248 0 0 0 0
+/Trade-Page/Trade-Supplier-Advertising-Opportunity
+0 3 0 8733 0 0 0 0
+/css/reset.css
+0 147 0 39040 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/img_generic.png
+1 6 0 892 0 0 0 0
+/admin/admin.css
+0 54 0 16779 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/
+0 6 0 1486 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/newfolder.png
+1 2 0 929 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js
+0 17 0 22200 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/js/
+0 18 0 48099 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/submit-greyWide.png
+1 2 0 5556 0 0 0 0
+/favicon.ico
+0 16 0 18400 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/js/mcimagemanager.js
+0 30 0 3730 0 0 0 0
+/admin/chunks/editor.css
+0 16 0 172 0 0 0 0
+/Marketing-Programs/Export
+0 22 0 176023 8 2 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_right.gif
+1 1 0 625 0 0 0 0
+/Trade-Page/Trade-Supplier-Industry-Reports
+0 2 0 6013 0 0 0 0
+/assets/wco.png
+1 19 0 108172 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/stream/
+0 4 0 620 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/utils/form_utils.js
+0 26 0 5706 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/link.htm
+0 26 0 2907 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/folder-bottom-bg.png
+1 2 0 4681 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/act.gif
+1 6 0 201 0 0 0 0
+/admin/chunks/images/internet_explorer/borderBottomCenter.png
+1 2 0 344 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/utils/mctabs.js
+0 26 0 2271 0 0 0 0
+/admin/chunks2/images/internet_explorer/borderTopRight.png
+1 117 0 20124 0 0 0 0
+/css/typo.css
+0 154 0 177093 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js
+0 16 0 1744 0 0 0 0
+/login
+0 15 0 38887 7 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im.gif
+1 6 0 6900 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/js/link.js
+0 26 0 4506 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/middle_left.gif
+1 1 0 59 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css
+0 16 0 5856 0 0 0 0
+/admin/chunks2/images/internet_explorer/borderTopLeft.png
+1 117 0 20124 0 0 0 0
+/lib/colorbox/example2/images/loading.gif
+1 50 0 197967 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/bottom_left.gif
+1 1 0 69 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/folder-middle-bg.png
+1 6 0 240 0 0 0 0
+/css/dev.css
+0 86 0 3472 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/transparent.gif
+1 1 0 56 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/add.png
+1 6 0 515 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/js/jquery/jquery.multiupload.flash.swf
+0 1 0 3724 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/filemanager.png
+1 6 0 378 0 0 0 0
+/content/eblasts/wco_eblast_20130521.pdf
+0 2 0 367336 0 0 0 0
+/lib/colorbox/jquery.colorbox-min.js
+0 30 0 8110 0 0 0 0
+/admin/chunks2/images/internet_explorer/borderBottomLeft.png
+1 117 0 20124 0 0 0 0
+/content/hkwinespirits2013invite.pdf
+0 4 0 309278 0 0 0 0
+/js/jquery.innerfade.js
+0 201 0 591914 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/progress.gif
+1 1 0 357 0 0 0 0
+/lib/colorbox/jquery.colorbox.js
+0 86 0 437286 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/langs/en_dlg.js
+0 11 0 1306 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/rpc/
+0 15 0 10260 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/bottom_right.gif
+1 1 0 69 0 0 0 0
+/css/members.css
+0 3 0 843 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/img/icons.gif
+1 37 0 35382 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/buttons.png
+1 33 0 13096 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/img_generic.png
+1 2 0 892 0 0 0 0
+/admin/chunks2/images/internet_explorer/borderTopCenter.png
+1 117 0 20124 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/submit-grey.png
+1 1 0 2038 0 0 0 0
+/admin/assets/arrow_blank.png
+1 29 0 8424 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/upload.html
+0 1 0 1472 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im-botleft.gif
+1 2 0 831 0 0 0 0
+/content/hkwinespirits2013form.pdf
+0 9 0 196067 0 0 0 0
+/admin/chunks/images/internet_explorer/borderTopRight.png
+1 2 0 344 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/dialog-icon-upload.png
+1 1 0 1213 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/rpc/
+0 37 0 26031 0 0 0 0
+/account-password.php
+0 4 0 11923 0 0 0 0
+/content/DFATD_Export-ready_checklist_Hong_Kong_Market_July_2013.pdf
+0 1 0 136851 0 0 0 0
+/admin/chunks/images/internet_explorer/borderMiddleLeft.png
+1 2 0 344 0 0 0 0
+/admin/users2/js.js
+0 9 0 282 0 0 0 0
+/account.js
+0 3 0 1272 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/right.gif
+1 12 0 604 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im-topleft.gif
+1 6 0 523 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/dialog-top.png
+1 1 0 10746 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/toolbar.png
+1 2 0 7265 0 0 0 0
+/admin/chunks2/js.js
+0 128 0 19456 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im-topright.gif
+1 6 0 2237 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_chromeless_middle.gif
+1 1 0 249 0 0 0 0
+/lib/colorbox/example2/images/controls.png
+1 66 0 138054 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/dialog.css
+0 26 0 5070 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/top_middle.gif
+1 1 0 3746 0 0 0 0
+/lib/colorbox/example1/images/loading.gif
+1 30 0 18854 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/left.gif
+1 3 0 606 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/gallery.png
+1 1 0 465 0 0 0 0
+/search
+0 1 0 3004 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/loading_bg.gif
+1 37 0 276 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/dialog-icon-upload.png
+1 1 0 1213 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/tabs.gif
+1 52 0 7956 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/js/utils/fixpng.js
+0 8 0 1248 0 0 0 0
+/admin/chunks/
+0 2 0 7286 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/bottom_right.gif
+1 1 0 69 0 0 0 0
+/assets/favicon.gif
+1 3 0 1107 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/folder.png
+1 6 0 736 0 0 0 0
+/Member-Information/E-Blast-Archive
+0 4 0 13779 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/folder.png
+1 2 0 736 0 0 0 0
+/reset_password.php
+0 6 0 16980 4 0 0 0
+/Industry-Matters
+0 2 0 6758 0 0 0 0
+/admin/chunks/chunks.js
+0 30 0 630 0 0 0 0
+/login.js
+0 68 0 22939 0 0 0 0
+/admin/chunks2/images/internet_explorer/borderBottomCenter.png
+1 117 0 20124 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/submit-grey.png
+1 2 0 3778 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/right.gif
+1 3 0 604 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/filemanager.png
+1 2 0 378 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/middle_left.gif
+1 1 0 59 0 0 0 0
+/admin/chunks/images/internet_explorer/borderTopCenter.png
+1 2 0 344 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/bottom_left.gif
+1 1 0 69 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/utils/validate.js
+0 26 0 4755 0 0 0 0
+/Government
+0 1 0 3220 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/icons/newfolder.png
+1 6 0 929 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/submit-greyWide.png
+1 2 0 5556 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/submit-wide.png
+1 2 0 6184 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/folder-bottom-bg.png
+1 6 0 4681 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/clearlooks2/transparent.gif
+1 1 0 56 0 0 0 0
+/css/structure.css
+0 86 0 36848 0 0 0 0
+/admin/
+0 19 0 1756 0 0 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/toolbar.png
+1 6 0 7265 0 0 0 0
+/admin/users2/
+0 27 0 253473 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im-topright.gif
+1 2 0 2237 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/im.gif
+1 2 0 6900 0 0 0 0
+/Member-Information/Members-Governance
+0 2 0 6688 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/navdesc_bg.gif
+1 2 0 587 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/language/
+0 4 0 19316 0 0 0 0
+/Trade-Welcome
+0 1 0 6041 0 1 0 0
+/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/submit-default.png
+1 1 0 2317 0 0 0 0
+/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/img/act.gif
+1 2 0 201 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+202.46.62.97
+0 1 0 6871 1 1378695198
+/ 0 0
+54.211.33.16
+0 2 1 12236 1 1378728913
+/login.php 0 0
+66.249.66.200
+0 4 4 252 0 0
+- 0 0
+150.70.173.57
+0 1 1 418279 0 0
+- 0 0
+157.56.229.187
+0 2 1 2207 1 1378496313
+- 0 0
+202.46.56.43
+0 1 0 6871 1 1378608802
+- 0 0
+119.63.193.130
+0 1 0 6871 1 1378695231
+/ 0 0
+119.63.193.131
+0 1 0 6871 1 1378522428
+- 0 0
+119.63.193.132
+0 1 0 6871 1 1378436055
+- 0 0
+180.76.6.232
+0 1 0 2552 1 1378322096
+- 0 0
+209.146.182.26
+0 106 89 316995 2 1378321196
+- 0 0
+199.21.99.101
+0 3 1 4759 1 1378558170
+- 0 0
+66.249.75.200
+0 3 3 189 0 0
+- 0 0
+81.52.143.29
+0 3 2 7395 2 1378467440
+- 0 0
+81.52.143.37
+0 2 0 2813 1 1378253700
+- 0 0
+119.63.193.195
+0 1 0 6871 1 1378263053
+- 0 0
+119.63.193.196
+0 1 0 6871 1 1378608834
+- 0 0
+220.169.155.68
+0 21 17 48702 1 1378324050
+- 0 0
+208.115.111.75
+0 4 0 20622 2 1378219586
+- 0 0
+70.27.87.65
+0 2 2 419429 0 0
+- 0 0
+24.55.201.27
+0 15 14 36878 1 1378445336
+- 0 0
+193.252.118.175
+0 4 2 4318 2 1378622173
+- 0 0
+193.252.118.176
+0 3 2 4057 2 1378703707
+/login.php 0 0
+5.10.83.23
+0 1 1 3567 1 1378162486
+- 0 0
+5.10.83.25
+0 1 0 2552 1 1378287648
+- 0 0
+192.155.198.130
+0 27 3 2331289 2 1378230024
+- 0 0
+5.10.83.33
+0 1 1 1898 1 1378204292
+- 0 0
+5.10.83.37
+0 1 0 261 0 0
+- 0 0
+209.159.182.179
+0 57 48 171406 1 1378308057
+- 0 0
+5.10.83.41
+0 1 1 3567 1 1378722120
+/account-create.php 0 0
+5.10.83.48
+0 1 1 1790 1 1378142203
+- 0 0
+208.115.113.91
+0 2 0 7057 1 1378224730
+- 0 0
+5.10.83.61
+0 1 0 3810 1 1378769889
+- 0 0
+5.10.83.65
+0 3 2 6240 3 1378513689
+- 0 0
+5.10.83.70
+0 2 2 5465 2 1378483742
+- 0 0
+5.10.83.76
+0 1 1 1898 1 1378763415
+/login.php 0 0
+180.76.5.8
+0 1 0 261 0 0
+- 0 0
+216.121.252.21
+0 578 500 1191077 39 1378762024
+/login.php 0 0
+202.170.134.122
+0 49 28 244981 1 1378534991
+- 0 0
+202.46.63.74
+0 1 0 6871 1 1378263021
+- 0 0
+5.10.83.102
+0 1 0 2552 1 1378043292
+- 0 0
+157.55.33.26
+0 2 0 2861 1 1378074279
+- 0 0
+222.77.207.64
+0 9 6 65316 1 1378107688
+- 0 0
+173.209.134.46
+0 51 45 169030 3 1378411088
+- 0 0
+206.248.171.232
+0 57 50 175439 1 1378476225
+- 0 0
+50.101.253.7
+0 4 4 837708 0 0
+- 0 0
+157.56.93.95
+0 2 0 2861 1 1378031412
+- 0 0
+202.46.57.61
+0 1 0 6871 1 1378436023
+- 0 0
+184.173.120.245
+0 27 3 2331289 1 1378227260
+- 0 0
+79.55.5.48
+0 1 0 6871 1 1378738518
+/ 0 0
+150.70.172.109
+0 1 1 418279 0 0
+- 0 0
+180.76.5.49
+0 1 1 1898 1 1378322096
+- 0 0
+180.76.5.138
+0 1 1 1898 1 1378694907
+/login.php 0 0
+180.76.5.61
+0 1 0 2552 1 1378694907
+/ 0 0
+207.112.0.142
+0 58 50 315022 2 1378323522
+- 0 0
+204.101.137.122
+0 3743 1978 4475403 11 1378744256
+/admin/users2/ 0 0
+180.76.5.160
+0 1 0 261 0 0
+- 0 0
+146.52.224.16
+0 3 1 4759 1 1378242848
+- 0 0
+202.46.62.18
+0 1 0 6871 1 1378522396
+- 0 0
+27.251.83.200
+0 2 1 12252 1 1378370209
+- 0 0
+220.181.132.216
+0 2 0 13758 2 1378323749
+- 0 0
+209.183.159.197
+0 122 97 956748 1 1378320315
+- 0 0
+193.252.149.14
+0 4 2 4102 2 1378542867
+- 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+202.46.62.97
+0 1 0 6871 1 1378695198
+/ 0 0
+54.211.33.16
+0 2 1 12236 1 1378728913
+/login.php 0 0
+119.63.193.130
+0 1 0 6871 1 1378695231
+/ 0 0
+193.252.118.176
+0 2 1 2159 1 1378703707
+/login.php 0 0
+5.10.83.41
+0 1 1 3567 1 1378722120
+/account-create.php 0 0
+5.10.83.61
+0 1 0 3810 1 1378769889
+- 0 0
+5.10.83.76
+0 1 1 1898 1 1378763415
+/login.php 0 0
+216.121.252.21
+0 60 52 125810 4 1378762024
+/login.php 0 0
+79.55.5.48
+0 1 0 6871 1 1378738518
+/ 0 0
+180.76.5.138
+0 1 1 1898 1 1378694907
+/login.php 0 0
+180.76.5.61
+0 1 0 2552 1 1378694907
+/ 0 0
+204.101.137.122
+0 66 36 130393 2 1378744256
+/admin/users2/ 0 0
+180.76.5.160
+0 1 0 261 0 0
+- 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export////////
+1 2
++
+0 11
+- (Direct Request)
+0 1427
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export///
+1 2
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive///
+1 2
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive/////////
+1 2
+http://members.winecouncilofontario.ca/admin/
+1 3
+http://www.members.winecouncilofontario.ca/admin/navi.php
+1 167
+http://members.winecouncilofontario.ca/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/upload.html
+1 18
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Social-Media-Tools-and-Reports
+1 3
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive////////
+1 2
+http://www.members.winecouncilofontario.ca/Member-Information/Members-Governance
+1 3
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export//////
+1 2
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export/////////
+1 2
+http://members.winecouncilofontario.ca/login.php
+1 29
+http://members.winecouncilofontario.ca/admin/chunks2/
+1 612
+http://members.winecouncilofontario.ca/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/js/jquery/jquery.multiupload.flash.swf
+1 4
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export-Statistics
+1 3
+http://www.members.winecouncilofontario.ca/Industry-Matters/Wine-Pricing-Models
+1 2
+http://members.winecouncilofontario.ca/content/Spotlight_on_Wine_Country_Ontario_August_29_2013.pdf
+1 2
+http://www.members.winecouncilofontario.ca/login
+1 129
+http://members.winecouncilofontario.ca/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/index.html
+1 98
+http://members.winecouncilofontario.ca/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/js/jquery/jquery.multiupload.flash.swf
+1 4
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export/
+1 2
+http://members.winecouncilofontario.ca/admin/chunks/
+1 22
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive//////
+1 2
+http://www.members.winecouncilofontario.ca/search
+1 2
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive/
+1 2
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive///////
+1 2
+http://members.winecouncilofontario.ca/admin/users2/
+1 53
+http://www.members.winecouncilofontario.ca/
+1 60
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export////
+1 2
+http://www.members.winecouncilofontario.ca/admin/
+1 22
+http://www.members.winecouncilofontario.ca/account-password.php
+1 11
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive////
+1 2
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export///////
+1 2
+http://members.winecouncilofontario.ca/Marketing-Programs/Export
+1 4
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Winery-Opportunities
+1 2
+http://www.members.winecouncilofontario.ca/Trade-Page/Trade-Supplier-Advertising-Opportunity
+1 7
+http://www.members.winecouncilofontario.ca/Government
+1 2
+http://www.members.winecouncilofontario.ca/index.php
+1 79
+http://www.members.winecouncilofontario.ca/Industry-Matters
+1 5
+http://www.members.winecouncilofontario.ca/Trade-Welcome
+1 2
+http://members.winecouncilofontario.ca/admin/navi.php
+1 1
+http://www.members.winecouncilofontario.ca/Trade-Page/Trade-Supplier-Industry-Reports
+1 4
+http://www.members.winecouncilofontario.ca/Export
+1 1
+http://members.winecouncilofontario.ca/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/index.html
+1 259
+http://members.winecouncilofontario.ca/admin/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/view.html
+1 10
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive//
+1 2
+http://members.winecouncilofontario.ca/lib/tinymce/jscripts/tiny_mce/themes/advanced/link.htm
+1 278
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export//
+1 2
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive/////
+1 2
+http://members.winecouncilofontario.ca/Marketing-Programs
+1 6
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export//////////
+1 2
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export/////
+1 2
+http://www.members.winecouncilofontario.ca/Marketing-Programs
+1 35
+http://www.members.winecouncilofontario.ca/Member-Information
+1 17
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive
+1 22
+http://members.winecouncilofontario.ca/index.php
+1 3
+http://www.members.winecouncilofontario.ca/Trade-Suppliers
+1 69
+http://members.winecouncilofontario.ca/admin/chunks2/index.php
+1 344
+http://www.members.winecouncilofontario.ca/login.php
+1 880
+http://www.members.winecouncilofontario.ca/Marketing-Programs/Export
+1 182
+http://members.winecouncilofontario.ca/lib/tinymce/jscripts/tiny_mce/plugins/imagemanager/pages/im/upload.html
+1 16
+http://www.members.winecouncilofontario.ca/account.php
+1 15
+http://www.members.winecouncilofontario.ca/Trade-Page
+1 20
+http://www.members.winecouncilofontario.ca/members-listing.php
+1 18
+http://www.members.winecouncilofontario.ca/Member-Information/E-Blast-Archive//////////
+1 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 4
+\"google-analytics.com/index.php HTTP/1.1"
+0 2
+\"google-analytics.com/login.js HTTP/1.1"
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+0 947
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MDDRJS)
+0 57
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.0
+0 57
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+0 1763
+Java/1.7.0_09
+0 38
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+0 19
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5)
+0 796
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaBot BETA 1.2 (support.voilabot@orange-ftgroup.com)
+0 16
+\"google-analytics.com/login.php HTTP/1.1"
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0)
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 116
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+0 42
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 14
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30;
+0 124
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 19
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.1.4322)
+0 9
+Java/1.4.1_04
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+0 22
+Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.2
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+0 61
+Mozilla/5.0 (Windows NT 5.1; rv:23.0) Gecko/20100101 Firefox/23.0
+0 2
+\"google-analytics.com/\"
+0 4
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 6
+\"google-analytics.com/ga.js HTTP/1.1"
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+0 608
+http_requester/0.1
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 6
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 10
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 49
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 55
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 6
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 44
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+0 13
+Mozilla/5.0 (compatible; MJ12bot/v1.4.4; http://www.majestic12.co.uk/bot.php?+)
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+sjc
+0 1705 1395 1124735 7 1378744256 0 0
+# End Of Table - usernames

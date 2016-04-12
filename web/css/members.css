@@ -1,0 +1,48 @@
+#body,
+#header,
+#footer {
+	width: 100% !important;
+}
+
+#logoBox,
+#footerBox {
+	margin-left: 10px;
+	float: left !important;
+}
+
+#loginBox {
+	margin-right: 10px;
+}
+
+table.members {
+	margin: 10px;
+}
+
+table.members th {
+	text-align: left;
+}
+
+table.members th,
+table.members td {
+	padding: 5px;
+	border: 1px solid silver;
+	font-size: 13px;
+	line-height: 15px;
+}
+
+table.members td.name {
+	font-weight: bold;
+}
+
+table.members tr.odd td {
+	background-color: #ECECEC;
+}
+
+.pleaseLogin {
+	padding: 10px;
+}
+
+.pleaseLogin h2 {
+	font-size: 18px;
+	padding-bottom: 6px;
+}

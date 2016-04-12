@@ -1,0 +1,5 @@
+AuthName "Restricted Area" 
+AuthType Basic 
+AuthUserFile /var/www/members.winesofontario.org/.htpasswd 
+AuthGroupFile /dev/null 
+require valid-user

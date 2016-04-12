@@ -1,0 +1,16 @@
+.extrander ul {
+	list-style: circle;
+	list-style-position: inside;
+	font-size: 9pt;
+}
+.extrander h2 {
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.extrander a, .extrander ul li a {
+	text-decoration: none;
+	font-size: 8pt;
+}
+.extrander h2 a:hover {
+	color: black;
+}

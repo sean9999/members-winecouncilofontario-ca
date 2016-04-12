@@ -1,0 +1,806 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*  COLOURS:
+	WCO: #424716
+	PEC: #FCB31C
+	NIAGESC: #5C1768
+	NIAG: #E5173F
+	TORY: #F47321
+	ERIE: #00ABBF
+	
+	BORDER: #eae6d6	
+	FOOTER: #767B1B
+*/
+
+@import "nav.css";
+
+
+* {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#body p {
+}
+
+#body h1 {
+}
+
+#body h2 {
+}
+
+#body h3 {
+}
+
+#body h4 {
+}
+
+/* ===============================================  HEADER */
+
+
+#logoBox {
+	width: 200px;
+	height: 45px;
+	float: left;
+	padding-top: 5px;
+}
+
+#loginBox {
+	width: 300px;
+	height: 50px;
+	float: right;
+	text-align: right;
+}
+
+#loginBox p {
+	padding-top: 5px;
+	color: white;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+}
+
+#loginBox p a {
+	color: white;
+	border-bottom: 1px solid #767B1B;
+	text-decoration: none;
+}
+
+#loginBox p a:hover {
+	color: #767B1B;
+}
+
+
+
+/* ===============================================  SIDE NAV */
+
+#sideLinks h2 {
+	font-size: 16px;
+	line-height: 22px;
+	text-transform: uppercase;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	color: #4C4C4C;	
+	padding-bottom: 6px;
+}
+
+#sideLinks ul {
+	text-align: left;
+}
+
+#sideLinks li {
+	display: block;
+	font-size: 11px;
+	line-height: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+	background-image: url(../assets/bullet.gif);
+	background-position: left 5px;
+	padding-left: 9px;
+	background-repeat: no-repeat;
+	color: #4C4C4C;
+}
+
+#sideLinks li a {
+	color: #4C4C4C;
+	text-decoration: none;
+	padding-bottom: 6px;
+	display: block;	
+}
+
+#sideLinks li a:hover {
+	text-decoration: underline;
+}
+
+#sideLinks li a:active {
+}
+
+#sideLinks hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #4C4C4C;
+}
+
+#downloads1 li a {
+	text-decoration: none;
+	}
+#downloads1 li a:hover {
+	text-decoration: underline;
+}
+	
+
+/* ===============================================  FOOTER STUFF */
+
+
+#footer #fineprint p, .googledir {
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#fineprint a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+#fineprint a:hover {
+	color: #FFF;
+	text-decoration: underline;
+}
+
+#footerBox p {
+	font-size: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 15px;
+	color: #EEE;
+	font-weight: normal;
+}
+
+#footerBox li {
+	display: inline;
+	font-size: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 15px;
+	color: #EEE;
+	font-weight: normal;
+	padding-bottom: 11px;
+}
+ 
+#footerBox p a,
+#footerBox li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #EEE;
+	padding-right: 9px;
+}
+
+#footerBox p a:hover,
+#footerBox li a:hover {
+	text-decoration: underline;
+}
+
+#footerBox {
+	float: right;
+	width: 736px;
+	padding: 9px 9px 5px 0;
+	background-color: #424716;
+}
+
+
+/* ===============================================  MAIN CONTENT */
+
+
+#mainContent hr,
+#Content hr {
+	display: none;
+}
+
+#mainContent a,
+#Content a {
+	text-decoration: underline;
+	color: #4C4C4C;
+	}
+	
+#mainContent a:hover,
+#Content a:hover {
+	text-decoration: none;
+	color: #4C4C4C;
+}
+
+#mainContent p,
+#Content p,
+#mainContent td {
+	font-size: 14px;
+	line-height: 20px;
+	color: #404040;
+	padding-bottom: 10px;
+}
+
+#mainContent blockquote {
+	background-image: url(/assets/didyouknow.png);
+	background-repeat: no-repeat;
+	padding: 20px 20px 0px 20px;
+	width: 150px;
+	float: left;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 30px;
+	color: #424716;
+}
+
+#mainContent blockquote strong,
+#mainContent blockquote p strong {
+	font-size: 21px;
+	color: black;
+}
+
+#mainContent ul {
+	padding-bottom: 10px;
+}
+
+#mainContent li {
+	font-size: 14px;
+	line-height: 15px;
+	color: #404040;
+	padding-bottom: 5px;
+	margin-left: 15px;
+	padding-left: 5px;
+	list-style: square;
+}
+
+
+#mainContent h1,
+#Content h1 {
+	font-size: 22px;
+	line-height: 22px;
+	color: #4C4C4C;
+	padding-bottom: 11px;
+	letter-spacing : -1px;
+}
+
+
+#mainContent h2,
+#Content h2 {
+	font-size: 16px;
+	line-height: 18px;
+	color: #4C4C4C;
+	padding-bottom: 6px;
+	text-transform: uppercase;
+}
+
+#mainContent h3,
+#Content h3 {
+	font-size: 13px;
+	line-height: 18px;
+	color: #6C6C6C;
+	padding-bottom: 6px;
+}
+
+#mainContent hr,
+#Content hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #4C4C4C;
+}
+
+#mainContent p.finalLink {
+	text-align: right;
+}
+
+#mainContent p.finalLink a {
+	text-decoration: none;
+}
+
+#mainContent p.finalLink a:hover {
+	text-decoration: underline;
+}
+
+
+#wineries h2 {
+	padding-top: 11px;
+}
+
+#wineries ul {
+	padding-top: 11px;
+	text-align: left;
+	padding-bottom: 33px;
+	margin-bottom: 33px;
+}
+
+#wineries li {
+	display: block;
+	width: 255px;
+	float:left;
+	font-size: 12px;
+	line-height: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+	padding: 0px;
+	margin: 0px;
+}
+
+#wineries li a {
+	color: #4C4C4C;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	display: block;	
+	padding-left: 9px;
+}
+
+
+#wineries li a:active {
+}
+
+/* ===============================================  SEARCH BOX  */
+
+form#searchBox {
+	margin: 9px 0px 9px 9px;
+	height: 21px;
+	overflow: hidden;	
+}
+
+form#searchBox:a {
+}
+
+input#q {
+	border-collapse: collapse;
+	border: solid #424716 1px;
+	height: 15px;
+	width: 100px;
+	padding: 2px;
+	float: left;
+	margin: 0px;
+	font-family: monospace;
+	color: #666;
+}
+
+input#q:focus {
+	color: #000;
+	font-weight: bold;
+}
+
+button#searchGo {
+	border-collapse: collapse;
+	border: none;
+	color: #424716;
+	background-color: #FCFCFC;
+	padding: 5px;
+	width: 15px
+	float: right;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+button#searchGo:hover {
+	background-color: #424716;
+	color: #FFF;
+}
+
+hr.golden {
+	color:				#e4ddc1;
+	background-color:	#e4ddc1;
+	height:				3px;
+	border-style: 		solid;
+	border-color: 		#e4ddc1;
+}
+
+
+/* ===============================================  SEARCH RESULTS */
+
+div#SearchResults {
+	border-bottom: solid #eae6d6 1px;
+}
+
+div.SearchResult {
+}
+
+div#SearchResults > div.ChunksResult,
+div#SearchResults > div.WineryResult,
+div#SearchResults > div.EventResult {
+	padding: 0 0 15px 0;
+}
+
+div#SearchResults h1 {
+	padding-top: 10px;
+	margin-top: 10px;
+	border-top: solid #eae6d6 1px;
+}
+
+div#SearchResults h2 a {
+	text-decoration: none;
+}
+
+div#SearchResults h2 a:hover {
+	text-decoration: underline;
+}
+
+div.SearchResult p.description {
+}
+
+/* ===============================================  TABLE STYLES */
+
+table.form {
+	margin: 15px 0 15px 0;
+}
+
+table.form td {
+	vertical-align: top;
+}
+
+#mainContent table.form td.left {
+	width: 175px;
+	padding: 5px 3px 3px 3px;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+table.form input,
+table.form textarea,
+.sCommentAdd textarea.sComment {
+    font-family: monospace;
+    width: 325px;
+    margin: 3px;
+    font-size: 10pt;
+    line-height: 15px;
+    padding: 3px;
+    background-color: #EEEEEE;
+    border-collapse: collapse;
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+}
+
+table.form select {
+    margin: 3px;
+	width: 331px;
+}
+
+table.form input.check {
+	width: 15px;
+	height: 15px;
+}
+
+table.form textarea {
+	height: 150px;
+}
+
+table.form textarea.notAsTall {
+	height: 80px;
+}
+
+table.form input:focus,
+table.form textarea:focus,
+.sCommentAdd textarea.sComment:focus {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 3px solid #424716;
+    margin: 1px;
+}
+
+table.form button,
+button.Survey {
+	border-collapse: collapse;
+	padding: 5px 10px 5px 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: white;
+	background-color: #767B1B;
+	border: 2px #767B1B solid;
+	cursor: pointer;
+}
+
+table.form button:hover,
+button.Survey:hover {
+	color: #FFF;
+	background-color: #424716;
+	border: 2px #424716 solid
+}
+
+table.form button.submit {
+}
+
+table.form button.cancel {
+}
+
+button.right {
+	float: right;
+}
+
+button.left {
+	float: left;
+}
+
+button.centre {
+	margin-left: 50px;
+}
+
+p.right {
+	text-align: right;
+}
+
+#mainContent table.form tr.divider hr.divider, 
+#Content table.form tr.divider hr.divider {
+	display: block;
+	height: 0px !important;
+	border: none;
+	border-collapse: collapse;
+	border-bottom: 2px solid #F3F3F3 !important;	
+}
+
+/* ===============================================  WINES */
+
+table.wines {
+}
+
+#mainContent table.wines td,
+#mainContent table.wines th {
+	padding: 3px;
+	border-bottom: 1px solid #EAE6D6;
+	text-align: left;
+	font-size: 13px;
+}
+
+#mainContent table.wines tr:hover {
+	background-color: #EAE6D6;
+}
+
+#mainContent table.wines td.name {
+	width: 150px;
+	font-weight: bold;
+}
+
+table.wines td.brand {
+	width: 120px;
+}
+
+table.wines td.style {
+	width: 120px;
+}
+
+table.wines td.edit {
+	width: 40px;
+}
+
+table.wines td.delete {
+	width: 40px;
+}
+
+#mainContent table.wines td.edit a,
+#mainContent table.wines td.delete a {
+	border-collapse: collapse;
+	color: white;
+	cursor: pointer;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 10px;
+	line-height: 10px;
+	height: 10px;
+	font-weight: bold;
+	padding: 4px;
+	text-align: center;
+}
+
+#mainContent table.wines td.edit a {
+	background-color: #767B1B;
+}
+
+#mainContent table.wines td.delete a {
+	background-color: #F47321;
+}
+
+#mainContent table.wines td.edit a:hover {
+	background-color: #424716;
+	text-decoration: none;
+}
+
+#mainContent table.wines td.delete a:hover {
+	background-color: #E5173F;
+	text-decoration: none;
+}
+
+
+table.form ul.grapes {
+}
+
+#mainContent table.wines td a {
+	display: block;
+	text-decoration: none;
+}
+
+#mainContent table.wines td a:hover {
+	text-decoration: underline;
+}
+
+
+#mainContent table.form ul.grapes li {
+	display: block;
+	float: left;
+	list-style: none;
+	width: 150px;
+	line-height: 12px;
+	padding: 3px 0px 3px 15px;
+	margin: 0px;
+	text-indent: -15px;
+}
+
+table.form input.grape {
+	height: 15px;
+	width: 15px;
+}
+
+
+/* ===============================================  SURVEY */
+
+ol#surveyList {
+	margin-left: 15px;
+	list-style: decimal;
+}
+
+ol#surveyList li {
+	list-style: decimal;
+	color: silver;
+}
+
+ol#surveyList li p {
+	padding-left: 5px;
+	font-weight: bold;
+}
+
+ol#surveyList li p a {
+	color: #404040;
+	text-decoration: none;
+	display: block;
+}  
+
+ol#surveyList li p a:hover {
+	text-decoration: underline;
+}
+
+
+.sWrapper {
+	border-bottom: 1px solid #eae6d6;
+	padding: 10px 3px 10px 3px;
+}
+
+.sWrapper:hover {
+	background-color: #eae6d6;
+}
+
+.sFocus { /* THIS IS USED DURING VALIDATION TO FOCUS A USER TO UNFINISHED QUESTIONS */
+	background-color: #FCB31C;
+}
+
+.sNumber {
+	width: 60px;
+	float: left;
+	display: block;
+}
+
+.sQuestion {
+	width: 295px;
+	float: left;
+	display: block;
+}
+
+.sContent {
+}
+
+ul.sMore {
+	text-align: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+#mainContent ul.sMore li,
+#Content ul.sMore li {
+	padding: 0 6px 0 0;
+	margin: 0 5px 0 0;
+	display: inline;
+}
+
+ul.sMore li.sComment {
+	border-right: 1px solid #767B1B;
+}
+
+#mainContent ul.sMore li a,
+#Content ul.sMore li a,
+#mainContent .sCommentAdd p.sComment a {
+	text-decoration: none;
+	font-size: 11px;
+	color: #767B1B;
+	font-weight: bold;	
+}
+
+#mainContent ul.sMore li a:hover,
+#Content ul.sMore li a:hover,
+#mainContent .sCommentAdd p.sComment a:hover {
+	text-decoration: underline;
+}
+
+.sValues {
+	width: 150px;
+	float: right;
+	display: block;
+	text-align: right;
+}
+
+.sCommentAdd {
+	width: 345px;
+}
+
+.sCommentAdd textarea.sComment {
+	width: 330px;
+	height: 60px;
+}
+
+.sCommentAdd p.sComment {
+	text-align: right;
+}
+
+.Survey {
+	margin-bottom: 20px;
+}
+
+.Survey h2 {
+	padding-top: 20px;
+}
+
+.Survey h2 span.secNum {
+	display: block;
+	width: 55px;
+	float: left;
+}
+
+.Survey h2 span.secHead {
+	display: block;
+	width: 452px;
+	float: right;
+}
+
+.surveyLocation {
+	
+}
+
+#mainContent .surveyLocation p,
+#Content .surveyLocation p {
+	text-align: center;
+	color: silver;
+}
+
+#mainContent .surveyLocation p a,
+#Content .surveyLocation p a {
+	text-decoration: none;
+	padding: 0 10px 0 10px;
+}
+
+#mainContent .surveyLocation p a:hover,
+#Content .surveyLocation p a:hover {
+	text-decoration: underline;
+}
+
+#mainContent .surveyLocation p a.active,
+#Content .surveyLocation p a.active {
+	font-size: 120%;
+	font-weight: bold;
+	border-bottom: 3px solid #424716;
+}
+
+.sButtons {
+	margin: 10px 0 0 0;
+}
+
+/* ===============================================  LOGIN AND ACCOUNT PAGES */
+
+#mainContent a.bold {
+	text-decoration: none;
+	font-weight: bold;
+	color: #767B1B;
+}
+
+#mainContent a.bold:hover {
+	text-decoration: underline;
+}

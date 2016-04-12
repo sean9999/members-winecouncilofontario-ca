@@ -1,0 +1,638 @@
+/* ADMIN NAV */
+
+#adminNav {
+}
+
+
+#editUser tr.hiddenSometimes,
+.hidden {
+	display: none;
+}
+
+
+
+
+#adminNav ul {
+	list-style: none;
+}
+
+#adminNav li {
+}
+
+#adminNav li a {
+	text-align: left;
+	padding: 5px 5px 5px 15px;
+	display: block;
+	color: #333 !important;
+	text-decoration: none;
+}
+
+#adminNav li a:hover {
+	color: green;
+	font-weight: bold;
+}
+
+#adminLogo {
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding-left: 10px;
+}
+
+/* ADMIN STYLES */
+
+div.admin_header {
+	width: 100%;
+	height: 80px;
+	border-bottom: solid;
+	border-color: #7A0046;
+}
+
+div.admin_footer {
+	padding-top: 15px;
+	height: 80px;
+	width: 100%;
+	height: 50px;
+	border-top: solid;
+	border-color: #7A0046;
+}
+
+a {
+	color: #333;
+}
+
+a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+body {
+	padding: 10px 10px 10px 0;
+}
+
+table tr td {
+	vertical-align: top;
+}
+
+a:hover {
+	color: black;
+}
+
+table.pretty {
+	background-color: white;
+	width: 100%;
+}
+
+table.pretty.fixedWidth {
+	width: 760px;
+}
+
+table.pretty tr {
+}
+
+table.pretty td.dedit {
+	width: 70px;
+	text-align: center;
+}
+table.pretty td.member {
+	font-weight: bold;
+}
+
+table.pretty td, table.pretty th {
+	padding: 0.5em;
+	border: 1px solid #CCC;
+	vertical-align: top;
+	text-align: left;
+}
+
+table.pretty tbody.foot {
+	background-color: white;
+}
+
+div.pretty_table_wrapper {
+	width: auto;
+}
+
+
+table.pretty input.full_width, 
+textarea.full_width,
+table.pretty .full_width {
+	width: 600px;
+}
+
+table.pretty select.full_width {
+	width: 612px;
+}
+
+table.pretty input.not_full_width, 
+textarea.not_full_width,
+table.pretty .not_full_width {
+	width: 30px;
+}
+
+
+p.message {
+	font-weight: bold;
+	color: #990000;
+}
+
+.smallText {
+	font-family: Verdana !important;
+	font-size: 10px !important;
+	color: #804000 !important;
+}
+
+.clearer {
+	clear: both;
+}
+
+/* HEADER */
+
+
+#adminTitle {
+	text-align: right;
+	padding-top: 10px;
+}
+
+#adminTitle h1 a {
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 20px;
+	text-decoration: none;
+}
+
+/* FOOTER */
+div.admin_footer p {
+	text-align: right;
+}
+
+div.admin_footer a {
+	text-decoration: none;
+	font-size: 12px;
+}
+
+div.admin_footer a:hover {
+	text-decoration: underline;
+}
+
+
+.pretty_table_wrapper h1,
+.pretty_table_wrapper h2 {
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 20px;
+	margin: 10px 0px 5px 10px;
+
+}
+
+/* MAIN CONTENT */
+
+#mainBox {
+	padding-left: 15px;
+	border-left: solid;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.addChunk {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+td.buttons {
+	padding-top: 10px;
+}
+
+a.rtfhtml {
+	font-size: 12px;
+	color: gray;
+}
+
+a.rtfhtml:hover {
+	color: red;
+}
+
+td.edit, td.delete {
+	text-align: center;
+}
+
+a.edit {
+	padding: 5px;
+	display: block;
+}
+
+a.edit:hover {
+	background-color: lime;
+}
+
+table.pretty a.delete {
+	padding: 5px;
+	display: block;
+	font-size: 10px;
+	color: red;
+	text-decoration: none;
+}
+
+a.delete:hover {
+	text-decoration: underline;
+}
+
+a.titleEdit {
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+}
+
+a.titleEdit:hover {
+	text-decoration: underline;
+}
+
+a.toggle {
+	padding-top: 10px;
+	color: red;
+	font-style: italic;
+	font-size: 75%;
+}
+
+td.english {
+	padding-top: 10px;
+}
+
+td.french {
+	padding-top: 10px;
+}
+
+h1 .secondary_h1 {
+	color: gray;
+}
+
+table.pretty tr:hover {
+	background-color: #EEE;
+}
+
+table.pretty a {
+	text-decoration: none;
+	display: block;
+}
+
+table.pretty a:hover {
+	color: green;
+
+}
+
+table.pretty input,
+.pretty_table_wrapper table.pretty input {
+	font-family: monospace;
+}
+
+
+table.pretty input:focus {
+	background-color: #FFF;
+	color: black;
+	border-color: black;
+	border-width: 3px;
+	box-shadow: 2px 2px 2px #333;
+	margin: 0px;
+}
+
+button {
+	border-collapse: collapse;
+	padding: 5px 10px 5px 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: white;
+	background-color: #767B1B;
+	border: 2px #767B1B solid;
+	cursor: pointer;
+}
+button:hover {
+	color: #FFF;
+	background-color: #7A0046;
+	border: 2px #7A0046 solid;
+}
+
+button.clear {
+	background-color: #999;
+	border: 2px #999 solid;
+	color: #FFF;
+}
+
+button.clear:hover {
+	color: #FFF;
+	background-color: #7A0046;
+	border: 2px #7A0046 solid;
+}
+
+table.pretty a.edit,
+table.pretty button.edit {
+	border-collapse: collapse;
+	padding: 5px 10px 5px 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #767B1B;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+}
+
+table.pretty a.edit:hover,
+table.pretty button.edit:hover {
+	color: white;
+	background-color: #767B1B;
+}
+
+table.pretty a.delete,
+table.pretty button.delete,
+button.delete {
+	border-collapse: collapse;
+	padding: 5px 10px 5px 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	color: #9e481a;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+}
+
+table.pretty a.delete:hover,
+table.pretty button.delete:hover,
+button.delete:hover {
+	color: white;
+	background-color: #9e481a;
+}
+
+table.pretty input:disabled {
+	background-color: grey;
+}
+
+table.pretty input, textarea {
+	margin: 3px;
+	font-family: Verdana, sans-serif;
+	font-size: 12pt;
+	padding: 3px;
+	background-color: #EEEEEE;
+	border-collapse: collapse;
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	width: 530px;
+}
+
+table.pretty select, 
+table.pretty object,
+table.pretty option {
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 3px;
+	width: 540px;
+}
+
+
+table.pretty ul.chunk_actions {
+}
+
+table.pretty ul.chunk_actions li {
+}
+
+table.pretty ul.chunk_actions li a{
+	text-decoration: none;
+	display: block;
+	padding: 3px;
+}
+
+table.pretty ul.chunk_actions li a:hover {
+	background: black;
+	color: white
+}
+
+
+.prettytablewrapper hr,
+#mainBox hr {
+	border-collapse: collapse;
+	border: 1px solid #FFF;
+	background-color: white;
+	height: 10px;
+}
+
+tr.nonMember {
+	background-color: #CCC;
+}
+
+
+table.chunktable td.arrow {
+	vertical-align: middle;
+}
+
+table.pretty td.noAnswer,
+table.pretty td.noAnswer a {
+	color: silver;
+}
+
+table.pretty td em.small {
+	font-size: 11px;
+	color: silver;
+}
+
+table.pretty td.comments {
+	font-style: italic;
+}
+
+/* ======================================================== TABBED-CONTENT */
+
+ul.tabs {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	height: 32px; /*--Set height of tabs--*/
+	border-bottom: 1px solid #999;
+	border-left: 1px solid #999;
+	width: 100%;
+}
+ul.tabs li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	height: 31px; /*--Subtract 1px from the height of the unordered list--*/
+	line-height: 31px; /*--Vertically aligns the text within the tab--*/
+	border: 1px solid #999;
+	border-left: none;
+	margin-bottom: -1px; /*--Pull the list item down 1px--*/
+	overflow: hidden;
+	position: relative;
+}
+ul.tabs li a {
+	text-decoration: none;
+	color: #999;
+	display: block;
+	font-size: 14px;
+	padding: 0 15px;
+	outline: none;
+	font-weight: bold;
+	background-color: #F5F5F5;
+	color: #999;
+
+}
+ul.tabs li a:hover {
+	background-color: green;
+	color: white;
+}
+html ul.tabs li.active, html ul.tabs li.active a:hover  { /*--Makes sure that the active tab does not listen to the hover properties--*/
+	color: #000;
+	background: #fff;
+	border-bottom: 1px solid #fff; /*--Makes the active tab look like it's connected with its content--*/
+}
+
+html ul.tabs li.active a {
+	color: #333;
+	background-color: #FFF;
+}
+
+.tab_container {
+	border-top: none;
+	overflow: hidden;
+	clear: both;
+	float: left; 
+/*
+	width: 100%;
+*/
+	background: #fff;
+	padding-right: 5px;
+}
+.tab_content {
+	padding: 20px 0 20px 0;
+}
+
+
+/* ======================================================== TINYMCE */
+
+textarea.tinymce {
+}
+
+/* ======================================================== SURVEY */
+
+table.pretty {
+	margin-right: 10px;
+}
+
+table.pretty tr.odd {
+	background-color: #F9F9F9;
+}
+
+table.pretty tr.subTotal {
+	font-weight: bold;
+}
+
+table.pretty tr.total {
+	font-weight: bold;
+	font-size: 120%;
+}
+
+table.pretty.survey {
+	font-size: 12px;
+}
+
+table.pretty.survey th {
+	-webkit-transform: rotate(-90deg); 
+	-moz-transform: rotate(-90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+	text-align: center;
+	vertical-align: middle;
+}
+
+table.pretty.survey td {
+	text-align: right;
+}
+
+table.pretty td.wName {
+	-webkit-transform: rotate(-90deg); 
+	-moz-transform: rotate(-90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+	text-align: center;
+	vertical-align: middle;
+}
+
+/* ======================================================== DATE PICKER STUFF */
+
+div.timePad {
+	width: 615px;
+}
+
+div.timePad.input {
+	float: left;
+}
+
+img.ui-datepicker-trigger {
+	float: right;
+	padding: 3px 5px;
+	clear: left
+}
+
+table.pretty td input.full_width.timePicker {
+	width: 565px;
+}
+
+textarea.blurb {
+	height: 200px;
+}
+
+table.pretty td.info {
+	width: 500px;
+	line-height: 18px;
+}
+
+table.pretty p.changeRow,
+table.pretty p.toggler {
+	text-align: right;
+	width: 600px;
+	padding-top: 5px;
+}
+
+table.pretty p.changeRow a,
+table.pretty p.toggler a {
+	display: inline;
+	padding-left: 10px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+table.pretty td.info.inactive,
+table.pretty td.info.inactive a {
+	color: #999;
+	font-style: italic;
+}
+
+table.pretty td span.user,
+table.pretty td span.user a {
+	font-size: 12px;
+	color: gray;
+}
+
+table.pretty td.adImg {
+	width: 60px;
+}
+
+p.instructions,
+.instructions p {
+	padding: 5px;
+	line-height: 20px;
+}
+
+table.pretty td.padID,
+table.pretty th.padID {
+	width: 50px;
+	vertical-align: middle;
+}
+
+table.pretty td .notes {
+	margin-top: 10px;
+	padding-top: 10px;
+	border-top: 1px dotted silver;
+	font-size: 12px;
+	line-height: 18px;
+}

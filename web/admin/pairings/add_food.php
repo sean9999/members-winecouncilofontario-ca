@@ -1,0 +1,1 @@
+<button name="add_food" type="button" onclick="addFood()">Add a food item</button>
